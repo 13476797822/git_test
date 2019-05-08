@@ -4,6 +4,8 @@ public class TestGit {
     public static void main(String[] args) {
         System.out.println("5.8添加测试");
         System.out.println("5.8添加测试");
+
+        //添加注释,我们重新添加注释,推送远端
     }
 
     public  void test(){
