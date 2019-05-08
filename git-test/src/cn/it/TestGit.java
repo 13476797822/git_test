@@ -6,6 +6,8 @@ public class TestGit {
         System.out.println("5.8添加测试");
 
         //添加注释,我们重新添加注释,推送远端
+
+        System.out.println("dev1的添加修改");
     }
 
     public  void test(){
