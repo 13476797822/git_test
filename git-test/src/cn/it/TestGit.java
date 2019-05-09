@@ -7,6 +7,7 @@ public class TestGit {
 
         //添加注释,我们重新添加注释,推送远端
 
+        //master的修改
         System.out.println("dev1的添加修改");
     }
 
